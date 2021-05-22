@@ -1,5 +1,6 @@
 {
 	"name": "Anjali",
+	"author": "Anjali",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
